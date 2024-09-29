@@ -33,7 +33,7 @@ nav{
 
 /* Centralizando o conteúdo */
 .container {
-    max-width: 50%;
+    max-width: 80%;
     margin: 0 auto;
     text-align: center;
     line-height: 5vh;
